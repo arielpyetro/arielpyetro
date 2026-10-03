@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/arielpyetro?tab=repositories"><strong>EXPLORAR REPOSITÓRIOS ↗</strong></a>
   &nbsp; · &nbsp;
-  <a href="#-missão-principal">MINHA MISSÃO ↓</a>
+  <a href="#missão-principal">MINHA MISSÃO ↓</a>
 </p>
 
 <br />
@@ -35,7 +35,7 @@ Estas são as tecnologias que fazem parte da minha jornada até aqui.
 
 <br />
 
-## 🕹️ Missão principal
+## Missão principal
 
 **Me tornar um desenvolvedor de jogos.** Quero levar o que sei de programação para a criação de experiências interativas, com mecânicas interessantes e identidade própria.
 

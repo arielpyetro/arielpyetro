@@ -28,7 +28,7 @@ Natural de Crato, CE, tenho 18 anos, atualmente discente do curso de Matemática
 
 ## Yoshi &amp; minhas contribuições
 
-Um quadradinho de cada vez. Um jogo de cada vez.
+Um quadradinho de cada vez.
 
 <img src="./assets/yoshi-contributions.svg" width="100%" alt="Yoshi em pixel art percorre meu calendário real de contribuições, com ovinhos seguindo atrás, e come os dias ativos. Animação em preto e branco atualizada diariamente." />
 

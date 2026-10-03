@@ -1,0 +1,46 @@
+name: Atualizar Yoshi
+
+on:
+  schedule:
+    - cron: '23 9 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/yoshi.yml'
+      - 'scripts/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: yoshi-contributions
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: main
+      - name: Testar gerador
+        run: node --test scripts/generate-contributions.test.mjs
+      - name: Gerar animação com contribuições reais
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: arielpyetro
+        run: node scripts/generate-contributions.mjs
+      - name: Salvar atualização
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/yoshi-contributions.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'Atualiza contribuições do Yoshi [skip ci]'
+          git pull --rebase origin main
+          git push origin HEAD:main

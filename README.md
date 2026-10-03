@@ -4,9 +4,7 @@
 
 ## Sobre mim
 
-- Quero me tornar um **desenvolvedor de jogos**.
-- Gosto da ideia de transformar código em mundos, mecânicas e experiências jogáveis.
-- Minha próxima fase é explorar o **game development** e construir meus primeiros jogos.
+Natural de Crato, CE, tenho 18 anos, atualmente discente do curso de Matemática Computacional na Universidade Federal do Cariri, quero me tornar um desenvolvedor, com ênfase no game developer, curto algoritmos, matemática abstrata, tudo que envolva programação. 
 
 ## Tecnologias
 

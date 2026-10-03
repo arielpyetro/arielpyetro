@@ -1,6 +1,6 @@
 # Olá, eu sou o Ariel.
 
-<img src="./assets/header.svg" width="100%" alt="Ariel Pyetro. Futuro game developer. Cenário de plataforma em pixel art, preto e branco, com Yoshi, ovos, blocos e um cano." />
+<img src="./assets/header.svg" width="100%" alt="Cenário de plataforma em pixel art, preto e branco, com Yoshi, ovos, nuvens, blocos e um cano." />
 
 ## Sobre mim
 

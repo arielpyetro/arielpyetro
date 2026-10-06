@@ -21,7 +21,7 @@ Natural de Crato, CE, tenho 18 anos, atualmente discente do curso de Matemática
 **Outras linguagens**
 
 <p>
-  <img src="./assets/java.svg" width="140" alt="Java" />
+  # <img src="./assets/java.svg" width="140" alt="Java" />
   <img src="./assets/c.svg" width="140" alt="C" />
   <img src="./assets/csharp.svg" width="140" alt="C#" />
 </p>

@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-Natural de Crato, CE, tenho 18 anos, atualmente discente do curso de Matemática Computacional na Universidade Federal do Cariri, quero me tornar um desenvolvedor, com ênfase no game developer, curto algoritmos, matemática abstrata, tudo que envolva programação. 
+Natural da Terra dos Altos Coqueiros, tenho 18 anos, atualmente discente do curso de Matemática Computacional na Universidade Federal do Cariri, quero me tornar um desenvolvedor, com ênfase no game developer, curto algoritmos, matemática abstrata, tudo que envolva programação. 
 
 ## Tecnologias
 

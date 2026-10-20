@@ -13,9 +13,6 @@ Natural da Terra dos Altos Coqueiros, tenho 18 anos, atualmente discente do curs
 <p>
   <img src="./assets/html.svg" width="140" alt="HTML" />
   <img src="./assets/css.svg" width="140" alt="CSS" />
-  <img src="./assets/javascript.svg" width="140" alt="JavaScript" />
-  <img src="./assets/react.svg" width="140" alt="React" />
-  <img src="./assets/tailwind.svg" width="140" alt="Tailwind CSS" />
 </p>
 
 **Outras linguagens**
@@ -23,7 +20,6 @@ Natural da Terra dos Altos Coqueiros, tenho 18 anos, atualmente discente do curs
 <p>
   <img src="./assets/java.svg" width="140" alt="Java" />
   <img src="./assets/c.svg" width="140" alt="C" />
-  <img src="./assets/csharp.svg" width="140" alt="C#" />
 </p>
 
 ## Yoshi &amp; minhas contribuições
